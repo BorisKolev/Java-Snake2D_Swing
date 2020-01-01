@@ -104,7 +104,7 @@ public class Game_Panel extends JPanel implements ActionListener {
         AppleLocating();
 
         // Determines the speed of the game
-        int DELAY = 170;
+        int DELAY = 70;
 
         timer = new Timer(DELAY, this);
         timer.start();
