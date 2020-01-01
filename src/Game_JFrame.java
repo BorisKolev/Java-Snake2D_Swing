@@ -11,7 +11,7 @@ class Game_JFrame {
 
     // Creating the frame
     private void initFrame(){
-        frame = new JFrame("1801355");
+        frame = new JFrame("Snake");
         frame.add(new Game_Panel());
 
         frame.setResizable(false);
