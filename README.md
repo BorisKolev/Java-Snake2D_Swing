@@ -12,7 +12,7 @@ Game keeps track of the top 5 scores.
 # Some of the functionalities.
 # Everything is explained within the comments of the program
 
-Most of the program is happenning in the Game_JPanel class.
+Most of the program is written in the Game_JPanel class.
 Member variables of Game_JPanel.
 ![](images/MemberVariables.PNG)
 
