@@ -19,7 +19,7 @@ Member variables of Game_JPanel.
 Constructor
 ![](images/Constructor.PNG)
 
-Main logic e.g. how the snake is actually moving.
+Main logic e.g. How the snake is actually moving.
 ![](images/snakeMoving.PNG)
 
 actionPerformed method.
