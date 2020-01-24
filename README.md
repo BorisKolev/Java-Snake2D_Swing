@@ -10,7 +10,17 @@ Game keeps track of the top 5 scores.
 ![](images/SnakeOver.png)
 
 # Some of the functionalities.
-![](images/Constructor.PNG)
+# Everything is explained within the comments of the program
+
+Most of the program is happenning in the Game_JPanel class.
+Member variables of Game_JPanel.
 ![](images/MemberVariables.PNG)
+
+Constructor
+![](images/Constructor.PNG)
+
+Main logic e.g. how the snake is actually moving.
 ![](images/snakeMoving.PNG)
+
+actionPerformed method.
 ![](images/actionPerformed.PNG)
